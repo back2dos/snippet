@@ -1,0 +1,6 @@
+-lib tink_syntaxhub
+-cp src
+-cp tests
+-js bin/snippet.js
+-main Main
+extraParams.hxml

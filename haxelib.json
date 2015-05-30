@@ -1,0 +1,21 @@
+{
+	"name": "tink_template",
+	"license": "MIT",
+	"tags": [
+		"tink",
+		"cross",
+		"utility",
+		"template"
+	],
+	"classPath": "src",
+	"description": "Tinkerbell template Language",
+	"contributors": [
+		"back2dos"
+	],
+	"releasenote": "Fix import * and using.",
+	"version": "0.1.2",
+	"url": "http://haxetink.org/tink_template",
+	"dependencies": {
+		"tink_syntaxhub": ""
+	}
+}
