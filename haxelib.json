@@ -11,8 +11,8 @@
 	"contributors": [
 		"back2dos"
 	],
-	"releasenote": "Fix import * and using.",
-	"version": "0.1.2",
+	"releasenote": "First version.",
+	"version": "0.1.0",
 	"url": "http://github.com/back2dos/snippet",
 	"dependencies": {
 		"tink_syntaxhub": ""
