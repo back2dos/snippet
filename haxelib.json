@@ -1,20 +1,19 @@
 {
-	"name": "tink_template",
+	"name": "snippet",
 	"license": "MIT",
 	"tags": [
-		"tink",
 		"cross",
 		"utility",
-		"template"
+		"native"
 	],
 	"classPath": "src",
-	"description": "Tinkerbell template Language",
+	"description": "Embed native code snippets",
 	"contributors": [
 		"back2dos"
 	],
 	"releasenote": "Fix import * and using.",
 	"version": "0.1.2",
-	"url": "http://haxetink.org/tink_template",
+	"url": "http://github.com/back2dos/snippet",
 	"dependencies": {
 		"tink_syntaxhub": ""
 	}
