@@ -11,8 +11,8 @@
 	"contributors": [
 		"back2dos"
 	],
-	"releasenote": "Minor fix.",
-	"version": "0.1.1",
+	"releasenote": "Remove extraneous file.",
+	"version": "0.1.2",
 	"url": "http://github.com/back2dos/snippet",
 	"dependencies": {
 		"tink_syntaxhub": ""
